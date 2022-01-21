@@ -21,7 +21,7 @@ favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/fa
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: 首页
-    url: /
+    url: http://124.223.65.95/
   - name: 关于
     url: /about
   - name: 归档
@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 1334603cf03f9fc820e1
-  clientSecret: d64eb286e0768ce9d7337de387a2cd2b85eab809
+  clientID: dd96617e82d9fd1adb8b
+  clientSecret: 2265f335522fc120a38c7b3c7b9a142299ae9112
   repo: momoil.github.io
   owner: momoil
 
