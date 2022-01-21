@@ -1,0 +1,21 @@
+---
+layout: post
+title: "UE4C++打印字符串"
+date: 2022-01-21
+tags: [UE4]
+comments: true
+author: momo
+---
+
+UE4 C++打印字符串的方式
+
+<!-- more -->
+##开始
+
+    // 打印至屏幕
+    FString screenMessage = "(AddOnScreenDebugMessage)Hello world!";
+    GEngine->AddOnScreenDebugMessage(-1, 1.f, FColor::Green, screenMessage);
+    
+    //输出log
+    UE_LOG(LogTemp, Log, TEXT("(UE_LOG-logTemp)Hello world!"));
+    UE_LOG(LogTemp, Warning, TEXT("(UE_LOG-logTemp)Hello world!"));
