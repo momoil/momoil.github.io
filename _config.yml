@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: dd96617e82d9fd1adb8b
   clientSecret: 2265f335522fc120a38c7b3c7b9a142299ae9112
-  repo: https://github.com/momoil/momoil.github.io
+  repo: 'momoil.github.io'
   owner: momoil
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
