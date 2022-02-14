@@ -21,7 +21,7 @@ favicon: https://github.com/momoil/momoil.github.io/raw/master/images/favicon.ic
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: 首页
-    url: http://124.223.65.95/
+    url: https://momoil.github.io/
   - name: 关于
     url: /about
   - name: 归档
